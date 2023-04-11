@@ -21,4 +21,6 @@ Email: christiandesouza35@gmail.com
 - Ensino Médio Etec Paulo Guerreiro Franco
 
 # Sobre Mim
-Meu Nome Christian De Souza Fernandes , Tenho 17 anos estou Em Busca de Um Emprego Na área De TI 
+Meu Nome Christian De Souza Fernandes , Tenho 17 anos estou Em Busca de Um Emprego Na área De TI
+
+# TITULO NOVAMENTE
